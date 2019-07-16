@@ -2,4 +2,4 @@
 Just ping stuff.... thats all
 
 Usage
-./pingstuff (HOST IP) <HOST IP> <HOST IP> <HOST IP> <HOST IP> <HOST IP> 
+./pingstuff (IP1) (IP2) (IP3) (IP4)
