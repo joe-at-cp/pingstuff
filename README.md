@@ -1,10 +1,7 @@
 # pingstuff.sh
 
-It's that simple. Ping as many ip addresses as you want to provide.
+It's just that simple, continuously ping as many ip addresses as you want.
 
-
-## Usage <br>
-## pingstuff.sh IP IP IP IP IP
 
 ```
 ./pingstuff.sh 192.168.30.150 1.1.1.1 10.200.0.40
