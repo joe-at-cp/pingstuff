@@ -1,6 +1,6 @@
 # pingstuff.sh
 
-It's just that simple, continuously ping as many ip addresses as you want.
+It's just that simple, continuously ping as many ip addresses as you want... What a world
 
 
 ```
